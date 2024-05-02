@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 https://hava12.github.io
 
 ### My Kaggle
-![kaggle badge](https://url.com/?user=yeopcho)
+![kaggle badge](https://www.kaggle.com/yeopcho)
