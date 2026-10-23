@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hava12&show_icons=true&theme=radical&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hava12&layout=compact)
-
 ![hudson-fleet](https://gist.githubusercontent.com/hava12/1d866809d01d2574030c1a2243dd7dd7/raw/hudson-fleet.svg)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hava12&show_icons=true&theme=radical&include_all_commits=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hava12&layout=compact)
 
 ### Github Blog
 https://hava12.github.io
