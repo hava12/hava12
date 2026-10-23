@@ -23,6 +23,3 @@ Here are some ideas to get you started:
 
 ### Github Blog
 https://hava12.github.io
-
-### My Kaggle
-![kaggle badge](https://www.kaggle.com/yeopcho)
