@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![hudson-fleet](https://gist.githubusercontent.com/hava12/1d866809d01d2574030c1a2243dd7dd7/raw/hudson-fleet.svg)
 
-[![hudson-fleet tokens](https://gist.githubusercontent.com/hava12/1d866809d01d2574030c1a2243dd7dd7/raw/hudson-fleet-tokens.svg)](https://gist.githubusercontent.com/hava12/1d866809d01d2574030c1a2243dd7dd7/raw/hudson-fleet-tokens.svg "누르면 날짜별 토큰 수를 볼 수 있습니다")
+![hudson-fleet tokens](https://gist.githubusercontent.com/hava12/1d866809d01d2574030c1a2243dd7dd7/raw/hudson-fleet-tokens.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hava12&layout=compact)
 
