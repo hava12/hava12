@@ -1,4 +1,4 @@
-### Data Engineer 조동엽의 GitHub 입니다.
+### 백엔드 엔지니어 조동엽의 GitHub 입니다.
 
 <!--
 **hava12/hava12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
