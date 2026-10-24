@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hava12&layout=compact)
 
-### Github Blog
-https://hava12.github.io
+### Digital Garden
+https://digital-garden-rouge-three.vercel.app
